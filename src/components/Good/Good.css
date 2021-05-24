@@ -1,0 +1,16 @@
+.shadow {
+    width: 100%;
+    height: 100%;
+    position: absolute;
+    top: 0;
+    left: 0;
+    background: rgba(0, 0, 0, 0.5);
+    opacity: 0;
+    color: white !important;
+    line-height: 50px;
+    text-decoration: none;
+}
+
+.shadow:hover {
+    opacity: 1;
+}
