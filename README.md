@@ -2,7 +2,7 @@
 
 ## 安装项目依赖
 ```
-yarn add
+yarn install
 ```
 
 ### 开发环境下运行项目
